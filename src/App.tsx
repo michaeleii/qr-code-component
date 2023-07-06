@@ -9,7 +9,7 @@ const qrCode = {
 
 function App() {
   return (
-    <div className="min-h-screen min-w-full flex justify-center items-center bg-gray-200 p-5">
+    <div className="min-h-screen min-w-full flex justify-center items-center bg-[hsl(212_45%_89%)] p-5">
       <QrCodeCard qrCode={qrCode} />
     </div>
   );
