@@ -19,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-using-react-tailwindcss-e9vjqGh-Nj](https://www.frontendmentor.io/solutions/qr-code-component-using-react-tailwindcss-e9vjqGh-Nj)
+- Live Site URL: [https://michaellei-qr-code.netlify.app/](https://michaellei-qr-code.netlify.app/)
 
 ## Tech Stack
 
